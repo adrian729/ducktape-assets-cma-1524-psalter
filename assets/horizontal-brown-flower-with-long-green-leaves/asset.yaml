@@ -1,0 +1,46 @@
+# descriptive: find it and understand it
+id: horizontal-brown-flower-with-long-green-leaves
+title: Brown fan flower on a long horizontal stem
+description: A very long, thin horizontal sprig. At the left end a small brown fan-shaped flower with a green calyx points left; from it a thin green stem runs the full width to the right, with two long, narrow, undulating green leaves lying along it, one lighter and one darker. Transparent background.
+type: illustration
+categories:
+  - botanical
+  - floral
+subjects:
+  - flower
+  - leaf
+  - stem
+colors:
+  - brown
+  - green
+facing: none
+composition: standalone
+
+# structural: how it is organised and related
+group: 2006-15-b
+render:
+  image: {}
+usage_notes:
+  - About 8:1; lies well under a line of text or as a rule, with the flower marking the left end.
+display_width:
+  - 400
+  - 1200
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Figure interior sits at alpha 253 rather than 255, invisible in use.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Psalter and Prayerbook: Ornamental Border with Flowers and Squirrel (verso)"
+  object_identifier: 2006.15.b
+  date: c. 1524
+  record_url: https://clevelandart.org/art/2006.15.b
+  image_url: https://openaccess-cdn.clevelandart.org/2006.15.b/2006.15.b_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 92e50400b0f1ab17eeaa4d72a095f87eab67c55d5bf234e0018fd3087c100d75
+license: null

@@ -1,0 +1,50 @@
+# descriptive: find it and understand it
+id: crossed-upright-green-leaf-pair
+title: Crossed pair of upright leaves, recto
+description: Two long pointed green leaves, one rising and one hanging, joined at the middle where their two short stems cross and curl outward to the left and right. Each leaf is two-toned, pale green on one side of the midrib and dark green on the other, with cream hatching and a black outline. Opaque gouache with a thin gold-ground fringe; the background is transparent.
+type: illustration
+categories:
+  - botanical
+subjects:
+  - leaf
+  - stem
+colors:
+  - green
+  - black
+  - cream
+facing: none
+composition: standalone
+
+# structural: how it is organised and related
+group: 2011-67-a
+render:
+  image: {}
+related:
+  - asset: cma-1524-psalter/upright-crossed-green-leaf-pair
+    role: variant
+  - asset: cma-1524-psalter/crossed-horizontal-green-leaf-pair
+    role: variant
+usage_notes:
+  - The same leaf-pair motif is painted again on the verso as upright-crossed-green-leaf-pair (vertical) and crossed-horizontal-green-leaf-pair (horizontal); this one is the raggedest of the three.
+display_width:
+  - 80
+  - 240
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Ragged cut with a gold-ground fringe along the edges; a few pixels of the left stem touch the left edge.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Psalter and Prayerbook: Calendar Page with Labors (recto)"
+  object_identifier: 2011.67.a
+  date: c. 1524
+  record_url: https://clevelandart.org/art/2011.67.a
+  image_url: https://openaccess-cdn.clevelandart.org/2011.67.a/2011.67.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 37aae11b5696dc2ef5fdf95a635b999cd0f544b06dbd8fc3344388f8b2a05643
+license: null

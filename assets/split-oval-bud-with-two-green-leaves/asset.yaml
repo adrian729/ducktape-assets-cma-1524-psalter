@@ -1,0 +1,53 @@
+# descriptive: find it and understand it
+id: split-oval-bud-with-two-green-leaves
+title: Split oval bud with red interior on a tall stem
+description: An oval pinkish-brown bud with a small knob at the top sits at the head of a long green stem; its front is split open to show a red interior dotted with cream. Two green leaves with gold-edged margins cross the lower stem, one rising to the left and one hanging to the right. Transparent background.
+type: illustration
+categories:
+  - botanical
+  - floral
+subjects:
+  - bud
+  - fruit
+  - leaf
+  - stem
+colors:
+  - brown
+  - red
+  - green
+  - gold
+facing: none
+composition: standalone
+
+# structural: how it is organised and related
+group: 2006-15-a
+render:
+  image: {}
+related:
+  - asset: cma-1524-psalter/upper-red-trefoil-flower-and-two-green-leaves
+    role: companion
+  - asset: cma-1524-psalter/middle-two-green-leaf-curved-twig
+    role: companion
+usage_notes:
+  - The lowest of three sprigs stacked in one margin of the recto, under the red flower and the leaf pair.
+display_width:
+  - 120
+  - 400
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Psalter and Prayerbook: Initial E with Ornamental Border Containing a Seated Satyr and a Bird Eating Grapes (recto)"
+  object_identifier: 2006.15.a
+  date: c. 1524
+  record_url: https://clevelandart.org/art/2006.15.a
+  image_url: https://openaccess-cdn.clevelandart.org/2006.15.a/2006.15.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 23bcaa627af03969a16a61510d2304b2d15e725469eaa2e212eecdb78e179bbe
+license: null

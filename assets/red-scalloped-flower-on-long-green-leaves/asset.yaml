@@ -1,0 +1,48 @@
+# descriptive: find it and understand it
+id: red-scalloped-flower-on-long-green-leaves
+title: Red carnation with two long leaves
+description: A red carnation with five fringed, scalloped petals marked by pale radiating lines fills the right half, seen from the front. Its green stem curves down to the left and carries two long, narrow green leaves with pale vein strokes, one rising up and one lying along the bottom, meeting at a short stalk at the lower left. Wide horizontal piece on a transparent background.
+type: illustration
+categories:
+  - botanical
+  - floral
+subjects:
+  - carnation
+  - flower
+  - leaf
+  - stem
+colors:
+  - red
+  - green
+facing: none
+view: front
+composition: standalone
+
+# structural: how it is organised and related
+group: 2006-15-b
+render:
+  image: {}
+usage_notes:
+  - About 2.2:1 with the flower at the right end; the leaves at the left can be cropped without losing the flower.
+display_width:
+  - 300
+  - 900
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The stalk touches the bottom edge of the master at the lower left, and the figure interior sits at alpha 253 rather than 255, invisible in use.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Psalter and Prayerbook: Ornamental Border with Flowers and Squirrel (verso)"
+  object_identifier: 2006.15.b
+  date: c. 1524
+  record_url: https://clevelandart.org/art/2006.15.b
+  image_url: https://openaccess-cdn.clevelandart.org/2006.15.b/2006.15.b_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 92e50400b0f1ab17eeaa4d72a095f87eab67c55d5bf234e0018fd3087c100d75
+license: null

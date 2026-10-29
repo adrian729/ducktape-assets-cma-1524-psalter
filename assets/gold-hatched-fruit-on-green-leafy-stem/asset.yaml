@@ -1,0 +1,47 @@
+# descriptive: find it and understand it
+id: gold-hatched-fruit-on-green-leafy-stem
+title: Gold cross-hatched fruit on a leafy stem
+description: A round pale gold fruit, cross-hatched in a diamond pattern and splitting open in a dark red slit at its lower right, hangs below three rounded pale green sepals. Above it a thin dark stem rises with two pairs of pointed green leaves, pale-veined with black outlines. The gold paint is worn, with cream parchment showing through, and a gold-ground fringe follows the edges. The background is transparent.
+type: illustration
+categories:
+  - botanical
+subjects:
+  - fruit
+  - leaf
+  - stem
+colors:
+  - gold
+  - cream
+  - green
+  - black
+facing: down
+composition: standalone
+
+# structural: how it is organised and related
+group: 2011-67-a
+render:
+  image: {}
+usage_notes:
+  - Tall and narrow (about 1:3); the fruit alone crops to a near-square ornament.
+display_width:
+  - 100
+  - 300
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Original wear on the gold fruit with parchment showing through, and a ragged gold-ground fringe along the edges.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Psalter and Prayerbook: Calendar Page with Labors (recto)"
+  object_identifier: 2011.67.a
+  date: c. 1524
+  record_url: https://clevelandart.org/art/2011.67.a
+  image_url: https://openaccess-cdn.clevelandart.org/2011.67.a/2011.67.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 37aae11b5696dc2ef5fdf95a635b999cd0f544b06dbd8fc3344388f8b2a05643
+license: null

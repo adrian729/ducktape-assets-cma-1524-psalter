@@ -1,0 +1,61 @@
+# descriptive: find it and understand it
+id: acanthus-scroll-with-vase-and-satyr
+title: Acanthus scroll border with vase and horn-blowing satyr
+description: Complete lower border of the recto. A grey acanthus scroll with gold-edged leaves runs the full width, curling at the left into a spiral that holds a red five-petalled flower. At the centre a copper-orange vase with a blue mouth sits on green acanthus leaves, with red and blue leaf tips on either side. At the right end a horned, bearded, goat-legged satyr with a brown body sits facing left and blows a long curved blue horn with red dots along its rim. Transparent background.
+type: divider
+categories:
+  - scrollwork
+  - fantasy
+  - music
+  - floral
+subjects:
+  - acanthus
+  - scroll
+  - vase
+  - flower
+  - satyr
+  - horn
+  - beard
+colors:
+  - gray
+  - red
+  - green
+  - blue
+  - brown
+facing: left
+view: side
+composition: single-figure
+
+# structural: how it is organised and related
+group: 2006-15-a
+render:
+  image: {}
+related:
+  - asset: cma-1524-psalter/gray-bird-among-grapes-on-long-floral-vine
+    role: companion
+  - asset: cma-1524-psalter/elongated-red-gray-leaf-scroll-with-blue-center
+    role: companion
+usage_notes:
+  - Complete lower border about 3.3:1; the satyr sits at the right end, so keep the whole width or crop from the left spiral.
+  - The vertical grapevine border and the thin leaf spindle come from the same page and frame text together with it.
+display_width:
+  - 600
+  - 2000
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Psalter and Prayerbook: Initial E with Ornamental Border Containing a Seated Satyr and a Bird Eating Grapes (recto)"
+  object_identifier: 2006.15.a
+  date: c. 1524
+  record_url: https://clevelandart.org/art/2006.15.a
+  image_url: https://openaccess-cdn.clevelandart.org/2006.15.a/2006.15.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 23bcaa627af03969a16a61510d2304b2d15e725469eaa2e212eecdb78e179bbe
+license: null

@@ -1,0 +1,47 @@
+# descriptive: find it and understand it
+id: upright-paired-green-leaves
+title: Two crossed green leaves on a short twig
+description: Two long green leaves with dark outlines and pale vein strokes cross at a short stem; the upper one rises to the right, the lower one hangs down to the left with a curled, lobed tip. A short twig sticks out to the left at the crossing. Tall narrow piece on a transparent background.
+type: illustration
+categories:
+  - botanical
+subjects:
+  - leaf
+  - stem
+colors:
+  - green
+  - black
+facing: none
+composition: standalone
+
+# structural: how it is organised and related
+group: 2006-15-b
+render:
+  image: {}
+related:
+  - asset: cma-1524-psalter/middle-two-green-leaf-curved-twig
+    role: variant
+usage_notes:
+  - The recto carries the same leaf-pair motif with gold edges as middle-two-green-leaf-curved-twig.
+display_width:
+  - 120
+  - 400
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Figure interior sits at alpha 253 rather than 255, invisible in use.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Psalter and Prayerbook: Ornamental Border with Flowers and Squirrel (verso)"
+  object_identifier: 2006.15.b
+  date: c. 1524
+  record_url: https://clevelandart.org/art/2006.15.b
+  image_url: https://openaccess-cdn.clevelandart.org/2006.15.b/2006.15.b_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 92e50400b0f1ab17eeaa4d72a095f87eab67c55d5bf234e0018fd3087c100d75
+license: null

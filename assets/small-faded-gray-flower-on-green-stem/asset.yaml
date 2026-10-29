@@ -1,0 +1,46 @@
+# descriptive: find it and understand it
+id: small-faded-gray-flower-on-green-stem
+title: Faded brown flower with a yellow upper petal
+description: A worn flower with three dusty pinkish-brown petals and one yellow-ochre petal bent upward sits at the top of a slender green stem; the paint of the petals is abraded. A green leaf with pale vein strokes grows to the right at mid height and a second leaf hangs to the lower left at the foot. Tall narrow piece on a transparent background.
+type: illustration
+categories:
+  - botanical
+  - floral
+subjects:
+  - flower
+  - leaf
+  - stem
+colors:
+  - brown
+  - tan
+  - yellow
+  - green
+facing: none
+composition: standalone
+
+# structural: how it is organised and related
+group: 2006-15-b
+render:
+  image: {}
+display_width:
+  - 120
+  - 400
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The petals are abraded on the leaf and show paper tone through the paint; the figure interior sits at alpha 253 rather than 255, invisible in use.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Psalter and Prayerbook: Ornamental Border with Flowers and Squirrel (verso)"
+  object_identifier: 2006.15.b
+  date: c. 1524
+  record_url: https://clevelandart.org/art/2006.15.b
+  image_url: https://openaccess-cdn.clevelandart.org/2006.15.b/2006.15.b_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 92e50400b0f1ab17eeaa4d72a095f87eab67c55d5bf234e0018fd3087c100d75
+license: null

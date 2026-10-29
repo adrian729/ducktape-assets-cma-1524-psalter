@@ -1,0 +1,47 @@
+# descriptive: find it and understand it
+id: small-red-and-gray-hanging-flower-on-curved-stem
+title: Red flower with gray sepals on a long curved stem
+description: A round red flower with gold stripes and dots and a small dark red knob at its base hangs at the right end of a long thin green stem that curves up to the left; three pale gray-white rounded sepals with gray shading sit behind the flower at its top. Dark outlines, opaque gouache; the background is transparent.
+type: illustration
+categories:
+  - floral
+  - botanical
+subjects:
+  - flower
+  - stem
+colors:
+  - red
+  - gray
+  - green
+  - gold
+facing: down
+composition: standalone
+
+# structural: how it is organised and related
+group: 2011-67-a
+render:
+  image: {}
+usage_notes:
+  - Wide and low (about 1.9:1), the flower at the right end; the bare stem crops away for a small round ornament.
+display_width:
+  - 160
+  - 480
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: AI-assisted extraction; no pixel is fully opaque (alpha peaks at 253, invisible in use).
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Psalter and Prayerbook: Calendar Page with Labors (recto)"
+  object_identifier: 2011.67.a
+  date: c. 1524
+  record_url: https://clevelandart.org/art/2011.67.a
+  image_url: https://openaccess-cdn.clevelandart.org/2011.67.a/2011.67.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 37aae11b5696dc2ef5fdf95a635b999cd0f544b06dbd8fc3344388f8b2a05643
+license: null

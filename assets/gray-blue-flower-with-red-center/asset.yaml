@@ -1,0 +1,48 @@
+# descriptive: find it and understand it
+id: gray-blue-flower-with-red-center
+title: Gray flower with a red petal on an acanthus leaf spray
+description: A gray-blue five-petalled flower with a curled red petal at its centre sits at the upper right of a large deep green lobed leaf with yellow veins. A thin green stem runs out to the lower left and a small red bud with green sepals hangs at the lower right. Black outlines; transparent background.
+type: ornament
+categories:
+  - floral
+  - botanical
+subjects:
+  - flower
+  - leaf
+  - bud
+  - stem
+  - acanthus
+colors:
+  - green
+  - gray
+  - red
+  - blue
+facing: none
+composition: standalone
+
+# structural: how it is organised and related
+group: 1999-136-a
+render:
+  image: {}
+display_width:
+  - 300
+  - 700
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: AI-assisted extraction; almost no pixel is fully opaque (alpha peaks at 253 over the paint), invisible in use.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto)"
+  object_identifier: 1999.136.a
+  date: c. 1524
+  record_url: https://clevelandart.org/art/1999.136.a
+  image_url: https://openaccess-cdn.clevelandart.org/1999.136.a/1999.136.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: cefeafcff30ac8fce6ee4a1b742db7a5f2b522fd9b5ebae25033bf43ef5f5ac1
+license: null

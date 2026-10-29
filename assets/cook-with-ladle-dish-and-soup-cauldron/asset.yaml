@@ -1,0 +1,55 @@
+# descriptive: find it and understand it
+id: cook-with-ladle-dish-and-soup-cauldron
+title: Cook with a ladle and dish beside a cauldron
+description: A cook in a red hood and belted white tunic, gray hose and black shoes bends to the right, holding up a blue ladle in one hand and a blue dish in the other; in front stands a brown three-legged cauldron with gold highlights. Figure and cauldron rest on a small patch of tan ground. Transparent background.
+type: illustration
+categories:
+  - humans
+subjects:
+  - cook
+  - man
+  - ladle
+  - bowl
+  - cauldron
+  - hood
+colors:
+  - white
+  - red
+  - brown
+  - blue
+  - gray
+facing: right
+view: three-quarter
+composition: single-figure
+
+# structural: how it is organised and related
+group: 1999-136-b
+render:
+  image: {}
+related:
+  - asset: cma-1524-psalter/girl-kneading-bread-at-table-with-pail
+    role: companion
+usage_notes:
+  - Pairs with girl-kneading-bread-at-table-with-basket, the kitchen figure on the recto of the same leaf, at about the same scale.
+display_width:
+  - 200
+  - 500
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: AI-assisted extraction; almost no pixel is fully opaque (alpha peaks at 253 over the paint), invisible in use.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso)"
+  object_identifier: 1999.136.b
+  date: c. 1524
+  record_url: https://clevelandart.org/art/1999.136.b
+  image_url: https://openaccess-cdn.clevelandart.org/1999.136.b/1999.136.b_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 64fd45e2044d037b0d4576e9b69042250e901d07df8333844d1032718804f087
+license: null

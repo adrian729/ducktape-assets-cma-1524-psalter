@@ -1,0 +1,50 @@
+# descriptive: find it and understand it
+id: upright-crossed-green-leaf-pair
+title: Crossed pair of upright leaves, verso
+description: Two long pointed green leaves, one rising and one hanging, joined at the middle where their short stems cross and curl outward to the left and right. Each leaf is two-toned, teal green with cream hatching on one side of the midrib and dark green with a black band on the other, with a black outline. Opaque gouache; the background is transparent.
+type: illustration
+categories:
+  - botanical
+subjects:
+  - leaf
+  - stem
+colors:
+  - green
+  - black
+  - cream
+facing: none
+composition: standalone
+
+# structural: how it is organised and related
+group: 2011-67-b
+render:
+  image: {}
+related:
+  - asset: cma-1524-psalter/crossed-upright-green-leaf-pair
+    role: variant
+  - asset: cma-1524-psalter/crossed-horizontal-green-leaf-pair
+    role: variant
+usage_notes:
+  - The cleanest of the three leaf-pair cut-outs; the same motif is crossed-upright-green-leaf-pair on the recto and crossed-horizontal-green-leaf-pair lying flat.
+display_width:
+  - 80
+  - 240
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: AI-assisted extraction; no pixel is fully opaque (alpha peaks at 253, invisible in use).
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Psalter and Prayerbook: Calendar Page with Peasant (verso)"
+  object_identifier: 2011.67.b
+  date: c. 1524
+  record_url: https://clevelandart.org/art/2011.67.b
+  image_url: https://openaccess-cdn.clevelandart.org/2011.67.b/2011.67.b_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 824c0c283ffc4ee770b87ed2a96c16be02b5b3c119b132bdc557eaf5abfad098
+license: null

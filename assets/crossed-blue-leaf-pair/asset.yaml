@@ -1,0 +1,52 @@
+# descriptive: find it and understand it
+id: crossed-blue-leaf-pair
+title: Two blue leaves on a crossed stem, horizontal
+description: Two broad deep blue leaves with pale edges and white veining lie end to end, their tips pointing left and right, joined at a short gray-blue stem that crosses in the middle and ends in a stub below. Gold flecks edge the leaves. Transparent background.
+type: ornament
+categories:
+  - botanical
+subjects:
+  - leaf
+  - stem
+colors:
+  - blue
+  - gray
+  - gold
+facing: none
+composition: standalone
+
+# structural: how it is organised and related
+group: 1999-136-b
+render:
+  image: {}
+related:
+  - asset: cma-1524-psalter/crossed-upright-blue-leaf-pair
+    role: variant
+  - asset: cma-1524-psalter/crossed-upright-gray-leaf-pair
+    role: variant
+  - asset: cma-1524-psalter/crossed-gray-blue-leaf-pair
+    role: variant
+  - asset: cma-1524-psalter/crossed-green-leaf-pair
+    role: variant
+display_width:
+  - 250
+  - 600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Flecks of the gilt page ground cling to the edges.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso)"
+  object_identifier: 1999.136.b
+  date: c. 1524
+  record_url: https://clevelandart.org/art/1999.136.b
+  image_url: https://openaccess-cdn.clevelandart.org/1999.136.b/1999.136.b_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 64fd45e2044d037b0d4576e9b69042250e901d07df8333844d1032718804f087
+license: null

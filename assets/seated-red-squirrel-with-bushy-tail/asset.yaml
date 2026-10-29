@@ -1,0 +1,46 @@
+# descriptive: find it and understand it
+id: seated-red-squirrel-with-bushy-tail
+title: Red squirrel sitting on a patch of grass
+description: A reddish-brown squirrel sits upright on a small patch of green grass, seen from the side and facing right, with both forepaws raised in front of its chest. Its large bushy tail curls up behind the back to above the head, and the ears stand up with pale tufts. The fur is modelled in fine dark strokes with white highlights. Transparent background.
+type: illustration
+categories:
+  - animals
+subjects:
+  - squirrel
+  - grass
+colors:
+  - brown
+  - green
+  - white
+facing: right
+view: side
+composition: single-figure
+
+# structural: how it is organised and related
+group: 2006-15-b
+render:
+  image: {}
+usage_notes:
+  - Sits on its own strip of ground, so it stands well on a baseline or a rule without a shadow.
+display_width:
+  - 200
+  - 600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The grass is cut flat along the bottom edge of the master, and the figure interior sits at alpha 253 rather than 255, invisible in use.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Psalter and Prayerbook: Ornamental Border with Flowers and Squirrel (verso)"
+  object_identifier: 2006.15.b
+  date: c. 1524
+  record_url: https://clevelandart.org/art/2006.15.b
+  image_url: https://openaccess-cdn.clevelandart.org/2006.15.b/2006.15.b_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 92e50400b0f1ab17eeaa4d72a095f87eab67c55d5bf234e0018fd3087c100d75
+license: null

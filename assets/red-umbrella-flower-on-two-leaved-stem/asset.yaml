@@ -1,0 +1,48 @@
+# descriptive: find it and understand it
+id: red-umbrella-flower-on-two-leaved-stem
+title: Red umbrella-shaped flower on a tall stem
+description: A red flower shaped like a bell or umbrella, with gold streaks down its skirt and a small gold tuft at the top, hangs over a green calyx of pointed sepals. A tall straight green stem runs down with two rounded green leaves, one at the right and one lower at the left, teal with cream hatching and dark green edges. Opaque gouache; the background is transparent.
+type: illustration
+categories:
+  - floral
+  - botanical
+subjects:
+  - flower
+  - leaf
+  - stem
+colors:
+  - red
+  - green
+  - gold
+  - black
+facing: up
+composition: standalone
+
+# structural: how it is organised and related
+group: 2011-67-b
+render:
+  image: {}
+usage_notes:
+  - Tall and narrow (about 1:2.8); suits a side margin.
+display_width:
+  - 100
+  - 300
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: AI-assisted extraction; no pixel is fully opaque (alpha peaks at 253, invisible in use).
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Psalter and Prayerbook: Calendar Page with Peasant (verso)"
+  object_identifier: 2011.67.b
+  date: c. 1524
+  record_url: https://clevelandart.org/art/2011.67.b
+  image_url: https://openaccess-cdn.clevelandart.org/2011.67.b/2011.67.b_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 824c0c283ffc4ee770b87ed2a96c16be02b5b3c119b132bdc557eaf5abfad098
+license: null

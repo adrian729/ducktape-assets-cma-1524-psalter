@@ -1,0 +1,52 @@
+# descriptive: find it and understand it
+id: crossed-green-leaf-pair
+title: Two green leaves on crossed stems, upright
+description: Two green leaves with yellow hatched veins and dark midribs, one pointing up and one hanging down, on two stems that cross between them; the lower stem ends in a stub to the left and the upper one in a short gold-flecked stub to the right. Transparent background.
+type: ornament
+categories:
+  - botanical
+subjects:
+  - leaf
+  - stem
+colors:
+  - green
+  - yellow
+  - gold
+facing: none
+composition: standalone
+
+# structural: how it is organised and related
+group: 1999-136-a
+render:
+  image: {}
+related:
+  - asset: cma-1524-psalter/crossed-blue-leaf-pair
+    role: variant
+  - asset: cma-1524-psalter/crossed-upright-blue-leaf-pair
+    role: variant
+  - asset: cma-1524-psalter/crossed-upright-gray-leaf-pair
+    role: variant
+  - asset: cma-1524-psalter/crossed-gray-blue-leaf-pair
+    role: variant
+display_width:
+  - 120
+  - 300
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: AI-assisted extraction; almost no pixel is fully opaque (alpha peaks at 253 over the paint), invisible in use.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto)"
+  object_identifier: 1999.136.a
+  date: c. 1524
+  record_url: https://clevelandart.org/art/1999.136.a
+  image_url: https://openaccess-cdn.clevelandart.org/1999.136.a/1999.136.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: cefeafcff30ac8fce6ee4a1b742db7a5f2b522fd9b5ebae25033bf43ef5f5ac1
+license: null

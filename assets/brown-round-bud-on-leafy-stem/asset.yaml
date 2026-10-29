@@ -1,0 +1,46 @@
+# descriptive: find it and understand it
+id: brown-round-bud-on-leafy-stem
+title: Round purplish-brown bud on a straight leafy stem
+description: A round purplish-brown bud or seed head with pale yellow-green rings and a small knob at the top sits on a long, straight green stem. Two green leaves with pale vein strokes grow out at mid height, one to each side, and a third leaf hangs to the lower left near the foot. Tall narrow piece on a transparent background.
+type: illustration
+categories:
+  - botanical
+  - floral
+subjects:
+  - bud
+  - seed
+  - leaf
+  - stem
+colors:
+  - brown
+  - green
+  - purple
+facing: none
+composition: standalone
+
+# structural: how it is organised and related
+group: 2006-15-b
+render:
+  image: {}
+display_width:
+  - 120
+  - 400
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Figure interior sits at alpha 253 rather than 255, invisible in use.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Psalter and Prayerbook: Ornamental Border with Flowers and Squirrel (verso)"
+  object_identifier: 2006.15.b
+  date: c. 1524
+  record_url: https://clevelandart.org/art/2006.15.b
+  image_url: https://openaccess-cdn.clevelandart.org/2006.15.b/2006.15.b_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 92e50400b0f1ab17eeaa4d72a095f87eab67c55d5bf234e0018fd3087c100d75
+license: null

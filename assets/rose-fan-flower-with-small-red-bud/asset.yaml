@@ -1,0 +1,49 @@
+# descriptive: find it and understand it
+id: rose-fan-flower-with-small-red-bud
+title: Crimson fan flower on a long budding stem
+description: A crimson fan-shaped flower with fine striping opens at the top, held in small green sepals. A long green stem descends and branches, carrying four pairs of rounded green leaves with pale veins, a small red bud with a blue petal on a side shoot at the right about a third of the way down, and a blue and rose bud hanging at the very bottom. Opaque gouache; the thin stems have small gaps and a gold-ground fringe. The background is transparent.
+type: illustration
+categories:
+  - floral
+  - botanical
+subjects:
+  - flower
+  - bud
+  - leaf
+  - stem
+colors:
+  - red
+  - green
+  - blue
+  - pink
+facing: up
+composition: standalone
+
+# structural: how it is organised and related
+group: 2011-67-a
+render:
+  image: {}
+usage_notes:
+  - Very tall (about 1:2.5), the left-border piece of the recto; the fan flower with the first leaf pair crops to a compact sprig.
+display_width:
+  - 160
+  - 480
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Ragged cut with a gold-ground fringe, and the thin stems are broken by small gaps where the paint was too thin to keep.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Psalter and Prayerbook: Calendar Page with Labors (recto)"
+  object_identifier: 2011.67.a
+  date: c. 1524
+  record_url: https://clevelandart.org/art/2011.67.a
+  image_url: https://openaccess-cdn.clevelandart.org/2011.67.a/2011.67.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 37aae11b5696dc2ef5fdf95a635b999cd0f544b06dbd8fc3344388f8b2a05643
+license: null

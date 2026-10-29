@@ -1,0 +1,46 @@
+# descriptive: find it and understand it
+id: blue-pointed-flower-on-upright-stem
+title: Blue and rose flower on an upright stem
+description: An upright flower whose pointed blue outer petal rises to the upper left over three dusky rose inner petals, set in a scalloped green calyx. The straight green stem below carries two green leaves with yellow veins and gold flecks along its length. Transparent background.
+type: ornament
+categories:
+  - floral
+  - botanical
+subjects:
+  - flower
+  - leaf
+  - stem
+colors:
+  - blue
+  - pink
+  - green
+  - gold
+facing: up
+composition: standalone
+
+# structural: how it is organised and related
+group: 1999-136-b
+render:
+  image: {}
+display_width:
+  - 150
+  - 400
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Flecks of the gilt page ground cling to the edges.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso)"
+  object_identifier: 1999.136.b
+  date: c. 1524
+  record_url: https://clevelandart.org/art/1999.136.b
+  image_url: https://openaccess-cdn.clevelandart.org/1999.136.b/1999.136.b_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 64fd45e2044d037b0d4576e9b69042250e901d07df8333844d1032718804f087
+license: null

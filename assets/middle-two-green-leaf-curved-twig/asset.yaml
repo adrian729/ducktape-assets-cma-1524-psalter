@@ -1,0 +1,51 @@
+# descriptive: find it and understand it
+id: middle-two-green-leaf-curved-twig
+title: Two crossed green leaves on a short twig
+description: Two long green leaves with gold-edged margins and pale vein strokes cross at a short stem, the upper one pointing up to the right and the lower one hanging down to the left with a curled tip. A short twig with a gold tip sticks out to the left at the crossing. Transparent background.
+type: illustration
+categories:
+  - botanical
+subjects:
+  - leaf
+  - stem
+colors:
+  - green
+  - gold
+facing: none
+composition: standalone
+
+# structural: how it is organised and related
+group: 2006-15-a
+render:
+  image: {}
+related:
+  - asset: cma-1524-psalter/upper-red-trefoil-flower-and-two-green-leaves
+    role: companion
+  - asset: cma-1524-psalter/split-oval-bud-with-two-green-leaves
+    role: companion
+  - asset: cma-1524-psalter/upright-paired-green-leaves
+    role: variant
+usage_notes:
+  - The middle of three sprigs stacked in one margin of the recto, between the red flower and the oval bud.
+  - The verso carries the same leaf-pair motif as upright-paired-green-leaves.
+display_width:
+  - 120
+  - 400
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Psalter and Prayerbook: Initial E with Ornamental Border Containing a Seated Satyr and a Bird Eating Grapes (recto)"
+  object_identifier: 2006.15.a
+  date: c. 1524
+  record_url: https://clevelandart.org/art/2006.15.a
+  image_url: https://openaccess-cdn.clevelandart.org/2006.15.a/2006.15.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 23bcaa627af03969a16a61510d2304b2d15e725469eaa2e212eecdb78e179bbe
+license: null

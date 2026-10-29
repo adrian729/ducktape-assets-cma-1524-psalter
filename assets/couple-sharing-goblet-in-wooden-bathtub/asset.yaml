@@ -1,0 +1,58 @@
+# descriptive: find it and understand it
+id: couple-sharing-goblet-in-wooden-bathtub
+title: Couple sharing a goblet in a bathtub
+description: A woman in a white head-cloth and gold necklace at the left and a man with curly golden hair at the right sit facing each other, nude to the waist, in a round brown wooden tub bound with gold hoops; between them they hold a dark blue-gray goblet. The tub's staves rise higher behind them and the water inside is pale blue. Cut from the bas-de-page scene of the recto; the background is transparent.
+type: illustration
+categories:
+  - humans
+subjects:
+  - couple
+  - woman
+  - man
+  - bathtub
+  - cup
+colors:
+  - brown
+  - cream
+  - gold
+  - blue
+facing: mixed
+view: three-quarter
+composition: multiple-figures
+
+# structural: how it is organised and related
+group: 2011-67-a
+render:
+  image: {}
+related:
+  - asset: cma-1524-psalter/three-couples-in-garden-under-painted-arcade
+    role: variant
+  - asset: cma-1524-psalter/seated-embracing-couple
+    role: companion
+  - asset: cma-1524-psalter/embracing-nude-couple-with-raised-fist
+    role: companion
+  - asset: cma-1524-psalter/gray-metal-water-jug-with-small-foot
+    role: companion
+usage_notes:
+  - The middle vignette of three-couples-in-garden-under-painted-arcade; in the scene the jug gray-metal-water-jug-with-small-foot stands on the ground in front of the tub.
+display_width:
+  - 160
+  - 480
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Psalter and Prayerbook: Calendar Page with Labors (recto)"
+  object_identifier: 2011.67.a
+  date: c. 1524
+  record_url: https://clevelandart.org/art/2011.67.a
+  image_url: https://openaccess-cdn.clevelandart.org/2011.67.a/2011.67.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 37aae11b5696dc2ef5fdf95a635b999cd0f544b06dbd8fc3344388f8b2a05643
+license: null

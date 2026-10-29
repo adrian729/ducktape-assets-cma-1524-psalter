@@ -1,0 +1,45 @@
+# descriptive: find it and understand it
+id: small-upright-red-bud-with-long-stem
+title: Red carnation bud on a tapering stem
+description: "An upright bud: red fringed petals streaked in yellow burst from a bulbous green calyx with yellow highlights, on a long green stem that tapers to a point at the bottom. Black outlines; transparent background."
+type: ornament
+categories:
+  - floral
+  - botanical
+subjects:
+  - bud
+  - carnation
+  - stem
+colors:
+  - red
+  - green
+  - yellow
+facing: up
+composition: standalone
+
+# structural: how it is organised and related
+group: 1999-136-a
+render:
+  image: {}
+display_width:
+  - 100
+  - 250
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: AI-assisted extraction; almost no pixel is fully opaque (alpha peaks at 253 over the paint), invisible in use.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Psalter and Prayerbook: Ornamental Border with Pea Vines and a Girl Kneading Bread (recto)"
+  object_identifier: 1999.136.a
+  date: c. 1524
+  record_url: https://clevelandart.org/art/1999.136.a
+  image_url: https://openaccess-cdn.clevelandart.org/1999.136.a/1999.136.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: cefeafcff30ac8fce6ee4a1b742db7a5f2b522fd9b5ebae25033bf43ef5f5ac1
+license: null

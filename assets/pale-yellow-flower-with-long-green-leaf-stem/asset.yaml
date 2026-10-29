@@ -1,0 +1,48 @@
+# descriptive: find it and understand it
+id: pale-yellow-flower-with-long-green-leaf-stem
+title: Yellow five-petalled flower with looping stem
+description: A yellow flower with five broad petals outlined in orange and a green knobbed centre sits at the top left. Its green stem loops up over the flower and runs down to the right, carrying three tiers of paired green leaves with dark outlines and pale vein strokes. Tall piece on a transparent background.
+type: illustration
+categories:
+  - botanical
+  - floral
+subjects:
+  - flower
+  - leaf
+  - stem
+colors:
+  - yellow
+  - green
+  - orange
+facing: none
+view: front
+composition: standalone
+
+# structural: how it is organised and related
+group: 2006-15-b
+render:
+  image: {}
+usage_notes:
+  - The stem reaches the right edge of the master at the top of its loop, so leave a small margin on that side.
+display_width:
+  - 150
+  - 450
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The stem loop touches the right edge of the master, and the figure interior sits at alpha 253 rather than 255, invisible in use.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Psalter and Prayerbook: Ornamental Border with Flowers and Squirrel (verso)"
+  object_identifier: 2006.15.b
+  date: c. 1524
+  record_url: https://clevelandart.org/art/2006.15.b
+  image_url: https://openaccess-cdn.clevelandart.org/2006.15.b/2006.15.b_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 92e50400b0f1ab17eeaa4d72a095f87eab67c55d5bf234e0018fd3087c100d75
+license: null
